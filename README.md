@@ -7,3 +7,6 @@ Tarea 1 Virtual Box Linux Parrot
 
 Tarea 2 Vim Adventures Lvl 3
 ![Captura de Pantalla 2023-09-10 a la(s) 19 40 25](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/ebb3708a-8531-4095-bece-501c7a79c347)
+
+Tarea 3 Menu en terminal
+<script async id="asciicast-WLGAosOAok6OabvHvwPwebM4p" src="https://asciinema.org/a/WLGAosOAok6OabvHvwPwebM4p.js"></script>
