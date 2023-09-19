@@ -15,3 +15,6 @@ Tarea 3 Menu en terminal
 Tarea 4 Gif Sistemas Operativos y sus versiones
 
 ![Un sistema operativo es el conjunto de programas de un sistema informático que gestiona los recursos del hardware y provee servicios a los programas de aplicación de software  Estos programas se e](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/daf1d4a8-fded-43b7-9bd9-83fd0c39f837)
+
+caca
+![Captura de Pantalla 2023-09-13 a la(s) 16 01 33](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/613f2b42-71c2-489b-8cca-9204b1310dac)
