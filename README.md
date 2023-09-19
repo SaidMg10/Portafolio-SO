@@ -10,7 +10,7 @@ Tarea 2 Vim Adventures Lvl 3
 
 Tarea 3 Menu en terminal
 
-[![asciicast](https://asciinema.org/a/WLGAosOAok6OabvHvwPwebM4p.svg)](https://asciinema.org/a/WLGAosOAok6OabvHvwPwebM4p)
+[![asciicast](https://asciinema.org/a/obk72fVcoOhemOTeiUlzrQx9i.svg)](https://asciinema.org/a/obk72fVcoOhemOTeiUlzrQx9i)
 
 Tarea 4 Gif Sistemas Operativos y sus versiones
 
