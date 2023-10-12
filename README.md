@@ -22,5 +22,5 @@ Tarea 5 Menu con 18 Scripts!
 
 Tarea 10 Ejercicios en clase
 
-![Captura de Pantalla 2023-10-12 a la(s) 17 25 35](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/e10b248a-5024-466f-967b-9fac925b4f25)
+![Captura de Pantalla 2023-10-12 a la(s) 17 28 27](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/1f57ede2-6207-459f-a4fc-77b8dfe58430)
 
