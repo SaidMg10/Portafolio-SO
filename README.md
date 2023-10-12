@@ -19,3 +19,7 @@ Tarea 4 Gif Sistemas Operativos y sus versiones
 Tarea 5 Menu con 18 Scripts!
 
 ![Captura de Pantalla 2023-09-20 a la(s) 0 37 32](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/5b45366f-7c76-444c-ab1f-3c613a690142)
+
+Tarea 10 Ejercicios en clase
+
+[Tarea Comandos 1.pdf](https://github.com/SaidMg10/Portafolio-SO/files/12887564/Tarea.Comandos.1.pdf)
