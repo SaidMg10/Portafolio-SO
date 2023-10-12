@@ -24,3 +24,9 @@ Tarea 10 Ejercicios en clase
 
 ![Captura de Pantalla 2023-10-12 a la(s) 17 28 27](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/1f57ede2-6207-459f-a4fc-77b8dfe58430)
 
+Tarea 11 Ejercicios en clase
+
+![Captura de Pantalla 2023-10-12 a la(s) 18 04 27](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/33f22b90-cc2e-447f-a54b-8a5aab4716e8)
+
+
+
