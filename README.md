@@ -20,16 +20,16 @@ Tarea 5 Menu con 18 Scripts!
 
 ![Captura de Pantalla 2023-09-20 a la(s) 0 37 32](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/5b45366f-7c76-444c-ab1f-3c613a690142)
 
-Tarea 10 Ejercicios en clase
+Tarea 11 Ejercicios en clase
 
 ![Captura de Pantalla 2023-10-12 a la(s) 17 28 27](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/1f57ede2-6207-459f-a4fc-77b8dfe58430)
 
-Tarea 11 Ejercicios en clase
+Tarea 12 Ejercicios en clase
 
 ![Captura de Pantalla 2023-10-12 a la(s) 18 27 29](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/aca4acf9-473e-4c8c-8876-4d0eedfd65f6)
 
 
-Tarea 12 Servidor
+Tarea 13 Servidor
 
 ![Captura de Pantalla 2023-10-26 a la(s) 23 09 45](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/d4e6de54-acee-4ec2-a291-70b24a6cb81f)
 
