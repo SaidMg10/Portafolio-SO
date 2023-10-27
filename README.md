@@ -29,4 +29,11 @@ Tarea 11 Ejercicios en clase
 ![Captura de Pantalla 2023-10-12 a la(s) 18 27 29](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/aca4acf9-473e-4c8c-8876-4d0eedfd65f6)
 
 
+Tarea 12 Servidor
+
+![Captura de Pantalla 2023-10-26 a la(s) 23 09 45](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/d4e6de54-acee-4ec2-a291-70b24a6cb81f)
+
+![Captura de Pantalla 2023-10-26 a la(s) 23 09 54](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/ad0d4db0-3d06-4062-ad30-e431dacc5d29)
+
+![Captura de Pantalla 2023-10-26 a la(s) 23 10 02](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/6343bff7-2a3c-4902-9923-6fcef8c04471)
 
