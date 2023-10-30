@@ -20,6 +20,28 @@ Tarea 5 Menu con 18 Scripts!
 
 ![Captura de Pantalla 2023-09-20 a la(s) 0 37 32](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/5b45366f-7c76-444c-ab1f-3c613a690142)
 
+Tarea 6 Bandit
+
+![Captura de Pantalla 2023-10-30 a la(s) 12 15 47](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/b769d33d-f8c6-4884-b52e-1398b3e50263)
+
+![Captura de Pantalla 2023-10-30 a la(s) 12 17 08](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/1eabe3f3-5dcf-49ab-be2f-ea41e0a4f6d8)
+
+![Captura de Pantalla 2023-10-30 a la(s) 12 17 22](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/adb448d7-8a19-4e2f-9c05-44313d230645)
+
+![Captura de Pantalla 2023-10-30 a la(s) 12 17 38](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/89f82663-591d-42df-8140-a104bdd8d926)
+
+![Captura de Pantalla 2023-10-30 a la(s) 12 17 55](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/7ae7abbe-0dfb-437a-ae88-db9c2020e93d)
+
+![Captura de Pantalla 2023-10-30 a la(s) 12 18 08](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/4019692f-a774-4b6f-92db-b0bfc99c5f96)
+
+![Captura de Pantalla 2023-10-30 a la(s) 12 18 22](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/96970438-af4b-4d1c-80a8-f5293af5fd05)
+
+![Captura de Pantalla 2023-10-30 a la(s) 12 18 34](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/585615b2-0d43-4eb6-9726-da013da484bd)
+
+![Captura de Pantalla 2023-10-30 a la(s) 12 18 41](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/40d0bb65-a128-47f8-abd2-5c7f6ee4826d)
+
+
+
 Tarea 11 Ejercicios en clase
 
 ![Captura de Pantalla 2023-10-12 a la(s) 17 28 27](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/1f57ede2-6207-459f-a4fc-77b8dfe58430)
