@@ -54,6 +54,9 @@ Fundamentals 3
 
 ![Captura de Pantalla 2023-11-25 a la(s) 14 01 41](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/f4845318-1ac6-427c-8ac0-f3acea02d93f)
 
+Tarea 10 Bash Scripting
+
+![Captura de Pantalla 2023-11-25 a la(s) 14 07 22](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/8becafe3-4011-4269-9c4a-e2467c661ebb)
 
 
 Tarea 11 Ejercicios en clase
