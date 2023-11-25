@@ -40,6 +40,20 @@ Tarea 6 Bandit
 
 ![Captura de Pantalla 2023-10-30 a la(s) 12 18 41](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/40d0bb65-a128-47f8-abd2-5c7f6ee4826d)
 
+Tarea 8 Linux Fundamentals
+
+Fundamentals 1
+
+![Captura de Pantalla 2023-11-25 a la(s) 14 00 39](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/0dff029d-2505-485e-9ff1-392a44e8a75f)
+
+Fundamentals 2
+
+![Captura de Pantalla 2023-11-25 a la(s) 14 01 18](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/31215629-7821-42da-9b00-727efb264aed)
+
+Fundamentals 3
+
+![Captura de Pantalla 2023-11-25 a la(s) 14 01 41](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/f4845318-1ac6-427c-8ac0-f3acea02d93f)
+
 
 
 Tarea 11 Ejercicios en clase
