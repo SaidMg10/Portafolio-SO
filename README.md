@@ -42,21 +42,12 @@ Tarea 6 Bandit
 
 Tarea 8 Linux Fundamentals
 
-Fundamentals 1
+![TryHackMe](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/3a69dca5-37ea-49ef-bc1f-550d07b1e34c)
 
-![Captura de Pantalla 2023-11-25 a la(s) 14 00 39](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/0dff029d-2505-485e-9ff1-392a44e8a75f)
-
-Fundamentals 2
-
-![Captura de Pantalla 2023-11-25 a la(s) 14 01 18](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/31215629-7821-42da-9b00-727efb264aed)
-
-Fundamentals 3
-
-![Captura de Pantalla 2023-11-25 a la(s) 14 01 41](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/f4845318-1ac6-427c-8ac0-f3acea02d93f)
 
 Tarea 10 Bash Scripting
 
-![Captura de Pantalla 2023-11-25 a la(s) 14 07 22](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/8becafe3-4011-4269-9c4a-e2467c661ebb)
+![TryHackMe](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/990deddf-e59a-4485-8ed5-077dda90e917)
 
 
 Tarea 11 Ejercicios en clase
