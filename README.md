@@ -67,3 +67,5 @@ Tarea 13 Servidor
 
 ![Captura de Pantalla 2023-10-26 a la(s) 23 10 02](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/6343bff7-2a3c-4902-9923-6fcef8c04471)
 
+https://github.com/SaidMg10/Portafolio-SO/blob/0571ac887fa716d575f0bc722e297047e5abffdf/Servidor%20.pdf
+
