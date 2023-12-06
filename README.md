@@ -71,5 +71,10 @@ Tarea 13 Servidor
 
 ![Captura de Pantalla 2023-11-30 a la(s) 19 37 36](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/b4fbd678-b761-4ef6-a534-c95f37da7a5e)
 
+Tarea 14 CIS Benchmark
+
+![Captura de Pantalla 2023-12-05 a la(s) 21 35 32](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/a196b53c-c081-468d-84e2-66dd368af176)
+
+
 
 
