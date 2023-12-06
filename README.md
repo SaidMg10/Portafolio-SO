@@ -42,7 +42,7 @@ Tarea 6 Bandit
 
 Tarea 7 Jail
 
-jail.py
+[jail.py](https://github.com/SaidMg10/Portafolio-SO/blob/182a4210afe32e4233469d76b073ca27ced1898f/jail.py)
 
 Tarea 8 Linux Fundamentals
 
