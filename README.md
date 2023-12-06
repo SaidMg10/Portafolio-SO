@@ -42,7 +42,10 @@ Tarea 6 Bandit
 
 Tarea 7 Jail
 
-[jail.py](https://github.com/SaidMg10/Portafolio-SO/blob/182a4210afe32e4233469d76b073ca27ced1898f/jail.py)
+![Captura de Pantalla 2023-12-06 a la(s) 9 26 37](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/c20feb77-a3c2-4d1c-a2f7-b34b08b3c0d6)
+
+![Captura de Pantalla 2023-12-06 a la(s) 9 26 57](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/cddcb5db-1d3e-417e-a6ae-50f262fe29a4)
+
 
 Tarea 8 Linux Fundamentals
 
