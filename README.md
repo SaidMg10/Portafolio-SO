@@ -40,6 +40,10 @@ Tarea 6 Bandit
 
 ![Captura de Pantalla 2023-10-30 a la(s) 12 18 41](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/40d0bb65-a128-47f8-abd2-5c7f6ee4826d)
 
+Tarea 7 Jail
+
+jail.py
+
 Tarea 8 Linux Fundamentals
 
 ![TryHackMe](https://github.com/SaidMg10/Portafolio-SO/assets/114017329/3a69dca5-37ea-49ef-bc1f-550d07b1e34c)
